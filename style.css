@@ -123,7 +123,17 @@ h4 {
 }
 
 .Argentina img {
-   width: 420px;
+  width: 420px;
+  height: 600px;
+  display: auto;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  padding-left: 180px;
+}
+
+.Barcelona img {
+  width: 380px;
   height: 600px;
   display: auto;
   align-items: center;
@@ -178,7 +188,6 @@ h4 {
 .Logo {
   mix-blend-mode: multiply;
 }
-
 
 
 
