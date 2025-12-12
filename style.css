@@ -175,6 +175,9 @@ h4 {
     to { transform: rotateY(360deg); }
 }
 
+.Logo {
+  mix-blend-mode: multiply;
+}
 
 
 
