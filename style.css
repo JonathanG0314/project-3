@@ -11,7 +11,7 @@ html {
 
 body {
   background-image: url(https://cdn.wallpapersafari.com/47/46/No5Xby.jpg);
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
   width: 100vw;
   height: auto;
@@ -28,7 +28,7 @@ header {
 }
 
 main{
-  padding: 100px;
+  padding: 200px;
 }
 
 header nav {
@@ -74,5 +74,42 @@ h2 {
   width: 500px;
   height: 500px;
 }
+
+.Messi {
+  display:flex;
+  margin:0 auto;
+  width: 75vw;
+}
+
+.Messi img {
+  width: 1000px;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  padding-left: 180px;
+}
+
+.Messi h2 {
+  display: flex;
+  display: relative;
+  left: 20px;
+  position: absolute;
+  top: 39%;
+  left: 56%;
+  transform: translate(-50%, -50%);
+}
+
+h4 {
+  font-family: "Oswald", sans-serif;
+  width: 25vw;
+  position: relative;
+  text-align: left;
+  left: 50vw;
+  bottom: -8px;
+  letter-spacing: .1rem;
+  }
+
 
 
