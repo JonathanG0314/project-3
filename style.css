@@ -111,5 +111,18 @@ h4 {
   letter-spacing: .1rem;
   }
 
+CampNou {
+  width: 1100px;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  padding-left: 180px;
+}
+
+
+
+
 
 
