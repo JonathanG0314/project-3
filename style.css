@@ -109,11 +109,12 @@ h4 {
   left: 50vw;
   bottom: -8px;
   letter-spacing: .1rem;
+  padding-left: 10px;
   }
 
-.CampNou {
-  width: 11px;
-  height: 60px;
+.CampNou img {
+  width: 420px;
+  height: 600px;
   display: auto;
   align-items: center;
   align-content: center;
