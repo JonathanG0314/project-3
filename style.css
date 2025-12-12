@@ -148,7 +148,7 @@ h4 {
 
 .row1 h3, .row2 h3 {
   position: relative;
-  left: -20px;
+  left: 20px;
 }
 
 .row1 p {
@@ -169,6 +169,7 @@ h4 {
   width: 95vw;
   margin: 0 auto;
 }
+
 
 
 
