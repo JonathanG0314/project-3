@@ -64,13 +64,13 @@ h1 {
 
 h5 {
   font-size: 20pt;
-  font-family: "Geologica", sans-serif;
+  font-family: "Geologicar", sans-serif;
   text-align: center;
 }
 
 h2 {
   font-size: 90pt;
-  font-family: "Oswald", sans-serif;
+  font-family: "Geologica", sans-serif;
   color: black;
   width: 500px;
   height: 500px;
@@ -103,7 +103,7 @@ h2 {
 }
 
 h4 {
-  font-family: "Oswald", sans-serif;
+  font-family: "Geologica", sans-serif;
   width: 25vw;
   position: relative;
   text-align: left;
@@ -152,12 +152,14 @@ h4 {
 
 .row1 img, .row1 div, .row1 h3, .row2 img, .row2 div, .row2 h3 {
   width: 16%;
+  font-family: "Geologica", san-serif;
   height: auto;
   font-size: 30pt;
   letter-spacing: .2rem;
 }
 
 .row1 h3, .row2 h3 {
+  font-family: "Geologica", san-serif;
   position: relative;
   left: 20px;
 }
@@ -165,13 +167,13 @@ h4 {
 .row1 p {
   padding-left: 20px;
   font-size: 12pt;
-  font-family: "Popstar", sans-serif;
+  font-family: "Geologica", sans-serif;
 }
 
 .row2 p {
   padding-left: 20px;
   font-size: 12pt;
-  font-family: "Popstar", sans-serif;
+  font-family: "Geologica", sans-serif;
 }
 
 .row2 {
@@ -189,6 +191,7 @@ h4 {
 .Logo {
   mix-blend-mode: multiply;
 }
+
 
 
 
